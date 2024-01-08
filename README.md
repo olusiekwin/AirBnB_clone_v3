@@ -155,6 +155,7 @@ No known bugs at this time.
 
 ## Authors
 Olusiekwin Graham - [Github](https://github.com/olusiekwin) / [Twitter](https://twitter.com/_olusiekwin_)  
+Johnson oluwasegun - [Github] (https://github.com/Jojnsonolu)
 
 ## License
 Public Domain. No copy write protection. 
